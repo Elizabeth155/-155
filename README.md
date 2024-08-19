@@ -1,1 +1,1 @@
-# -155
+print('Hello world!')
